@@ -18,18 +18,19 @@ intents.message_content = True
 
 osinfo: dict = os_info()
 
+HOST_MAINTAINER = "Orion Altair" # Modify only this variable if you are hosting a toolbox instant
+VERSION_MAINTAINER = "Orion Altair"
+TOOLBOX_CREATOR = "Orion Altair"
 TOOLBOX_VERSION = "0.1.2"
 TOOLBOX_CHANNEL = "RollingRelease"
-TOOLBOX_CREATOR = "Orion Altair"
 VERSION_STATUS = "Live/Supported"
-VERSION_MAINTAINER = "Orion Altair"
 VERSION_CODENAME = "Hammer"
-HOST_MAINTAINER = "Orion Altair"
-HOST_INITIALS = "".join(letter[0] for letter in HOST_MAINTAINER.split(" "))
-HOST_CODENAME = f"PC@{HOST_INITIALS}{("-"+osinfo["id"].upper()) if osinfo['type'] == "Linux" else ""}"
 HOST_ID = "1-MAIN-SYS.OWN"
-SYSTEM_VERSION = sys.version
+# Change nothing below this!!!
 TOOLBOX_LANGUAGE = "Python"
+HOST_INITIALS = "".join(letter[0] for letter in HOST_MAINTAINER.split(" "))
+HOST_CODENAME = f"{HOST_INITIALS}{("-"+osinfo["id"].upper()) if osinfo['type'] == "Linux" else ""}"
+SYSTEM_VERSION = sys.version
 if osinfo["type"] == "Linux":
   ostype = str(osinfo["type"])
   osname = str(osinfo["name"]).replace(" ", "_")
