@@ -1,6 +1,3 @@
-from installer import install
-install()
-
 import discord
 from discord.ext import commands
 import os
