@@ -1,0 +1,608 @@
+2024-10-24 22:16:08,561 - DEBUG - Keeping shard ID None websocket alive with sequence 18.
+2024-10-24 22:16:08,677 - DEBUG - For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2024-10-24 22:16:09,545 - DEBUG - POST https://discord.com/api/v10/channels/1297522814638882847/messages with {"content":"\nEnd of use log (Finished):\n```\nStart time: October 24, 2024, 21:10:41\nEnd time: October 24, 2024, 21:16:09\nWarns: 0\nKicks: 0\nDeletes: 0\nPurges: 0\n```\nBot has been online for: 0:05:27.556695.\n"} has returned 200
+2024-10-24 22:16:09,545 - DEBUG - POST https://discord.com/api/v10/channels/1297522814638882847/messages has received {'type': 0, 'content': 'End of use log (Finished):\n```\nStart time: October 24, 2024, 21:10:41\nEnd time: October 24, 2024, 21:16:09\nWarns: 0\nKicks: 0\nDeletes: 0\nPurges: 0\n```\nBot has been online for: 0:05:27.556695.', 'mentions': [], 'mention_roles': [], 'attachments': [], 'embeds': [], 'timestamp': '2024-10-24T21:16:10.797000+00:00', 'edited_timestamp': None, 'flags': 0, 'components': [], 'id': '1299119271510540383', 'channel_id': '1297522814638882847', 'author': {'id': '1280803034972033158', 'username': "Orion's Toolbox", 'avatar': '3cb0e511aef750144e29ba6a29c69e1c', 'discriminator': '9998', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': 'fcda93b42274db7fa85f34ca5a669738', 'accent_color': None, 'global_name': None, 'avatar_decoration_data': None, 'banner_color': None, 'clan': None}, 'pinned': False, 'mention_everyone': False, 'tts': False}
+2024-10-24 22:16:09,547 - DEBUG - For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 19, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2024-10-24T21:16:10.797000+00:00', 'pinned': False, 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['1299090762557952128'], 'premium_since': None, 'pending': False, 'nick': None, 'mute': False, 'joined_at': '2024-10-24T19:22:53.839682+00:00', 'flags': 1, 'deaf': False, 'communication_disabled_until': None, 'banner': None, 'avatar': None}, 'id': '1299119271510540383', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': 'End of use log (Finished):\n```\nStart time: October 24, 2024, 21:10:41\nEnd time: October 24, 2024, 21:16:09\nWarns: 0\nKicks: 0\nDeletes: 0\nPurges: 0\n```\nBot has been online for: 0:05:27.556695.', 'components': [], 'channel_id': '1297522814638882847', 'author': {'username': "Orion's Toolbox", 'public_flags': 0, 'id': '1280803034972033158', 'global_name': None, 'discriminator': '9998', 'clan': None, 'bot': True, 'avatar_decoration_data': None, 'avatar': '3cb0e511aef750144e29ba6a29c69e1c'}, 'attachments': [], 'guild_id': '1297520659718475817'}}
+2024-10-24 22:16:09,547 - DEBUG - Dispatching event socket_event_type
+2024-10-24 22:16:09,547 - DEBUG - Dispatching event message
+2024-10-24 22:16:09,769 - DEBUG - For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 20, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2024-10-24T21:16:11.031000+00:00', 'pinned': False, 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['1299090762557952128'], 'premium_since': None, 'pending': False, 'nick': None, 'mute': False, 'joined_at': '2024-10-24T19:22:53.839682+00:00', 'flags': 1, 'deaf': False, 'communication_disabled_until': None, 'banner': None, 'avatar': None}, 'id': '1299119272492269648', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': 'End of use log (Finished):\n```\nStart time: October 24, 2024, 21:10:41\nEnd time: October 24, 2024, 21:16:09\nWarns: 0\nKicks: 0\nDeletes: 0\nPurges: 0\n```\nBot has been online for: 0:05:27.556695.', 'components': [], 'channel_id': '1298351962722406421', 'author': {'username': "Orion's Toolbox", 'public_flags': 0, 'id': '1280803034972033158', 'global_name': None, 'discriminator': '9998', 'clan': None, 'bot': True, 'avatar_decoration_data': None, 'avatar': '3cb0e511aef750144e29ba6a29c69e1c'}, 'attachments': [], 'guild_id': '1297520659718475817'}}
+2024-10-24 22:16:09,769 - DEBUG - Dispatching event socket_event_type
+2024-10-24 22:16:09,769 - DEBUG - Dispatching event message
+2024-10-24 22:16:09,771 - DEBUG - POST https://discord.com/api/v10/channels/1298351962722406421/messages with {"content":"\nEnd of use log (Finished):\n```\nStart time: October 24, 2024, 21:10:41\nEnd time: October 24, 2024, 21:16:09\nWarns: 0\nKicks: 0\nDeletes: 0\nPurges: 0\n```\nBot has been online for: 0:05:27.556695.\n"} has returned 200
+2024-10-24 22:16:09,772 - DEBUG - POST https://discord.com/api/v10/channels/1298351962722406421/messages has received {'type': 0, 'content': 'End of use log (Finished):\n```\nStart time: October 24, 2024, 21:10:41\nEnd time: October 24, 2024, 21:16:09\nWarns: 0\nKicks: 0\nDeletes: 0\nPurges: 0\n```\nBot has been online for: 0:05:27.556695.', 'mentions': [], 'mention_roles': [], 'attachments': [], 'embeds': [], 'timestamp': '2024-10-24T21:16:11.031000+00:00', 'edited_timestamp': None, 'flags': 0, 'components': [], 'id': '1299119272492269648', 'channel_id': '1298351962722406421', 'author': {'id': '1280803034972033158', 'username': "Orion's Toolbox", 'avatar': '3cb0e511aef750144e29ba6a29c69e1c', 'discriminator': '9998', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': 'fcda93b42274db7fa85f34ca5a669738', 'accent_color': None, 'global_name': None, 'avatar_decoration_data': None, 'banner_color': None, 'clan': None}, 'pinned': False, 'mention_everyone': False, 'tts': False}
+2024-10-24 22:16:09,774 - DEBUG - Received WSMessage(type=<WSMsgType.CLOSING: 256>, data=None, extra=None)
+2024-10-24 22:16:09,774 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-10-24 22:16:09,775 - DEBUG - Dispatching event disconnect
+2024-10-24 22:16:09,775 - INFO - Cleaning up tasks.
+2024-10-24 22:16:09,775 - INFO - Cleaning up after 1 tasks.
+2024-10-24 22:16:09,775 - INFO - All tasks finished cancelling.
+2024-10-24 22:16:09,776 - INFO - Closing the event loop.
+2024-10-24 22:16:09,819 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000294AD089A90>
+2024-10-24 22:16:09,820 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000294AD12CBF0>, 147689.8936577)]']
+connector: <aiohttp.connector.TCPConnector object at 0x00000294AD089BE0>
+2024-10-24 22:16:11,578 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-24 22:16:11,596 - INFO - logging in using static token
+2024-10-24 22:16:12,114 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-24 22:16:12,447 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-40x1",{"micros":215132,"calls":["id_created",{"micros":1104,"calls":[]},"session_lookup_time",{"micros":333,"calls":[]},"session_lookup_finished",{"micros":24,"calls":[]},"discord-sessions-prd-1-259",{"micros":213319,"calls":["start_session",{"micros":172680,"calls":["discord-api-rpc-77df56c576-w6ntz",{"micros":167126,"calls":["get_user",{"micros":8186},"get_guilds",{"micros":3136},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":5}]}]},"starting_guild_connect",{"micros":39,"calls":[]},"presence_started",{"micros":21219,"calls":[]},"guilds_started",{"micros":125,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":19220,"calls":[]},"connect_finished",{"micros":19226,"calls":[]},"build_ready",{"micros":24,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 52096ff468109993126a53b66c4c2338).
+2024-10-24 22:16:14,488 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:16:14,488 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:17:53,318 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-24 22:17:53,325 - INFO - logging in using static token
+2024-10-24 22:17:53,876 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-24 22:17:54,077 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-lxnl",{"micros":81512,"calls":["id_created",{"micros":717,"calls":[]},"session_lookup_time",{"micros":525,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-prd-1-225",{"micros":80018,"calls":["start_session",{"micros":38015,"calls":["discord-api-rpc-77df56c576-ltmx6",{"micros":34523,"calls":["get_user",{"micros":5252},"get_guilds",{"micros":2716},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1058},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":17947,"calls":[]},"guilds_started",{"micros":157,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23837,"calls":[]},"connect_finished",{"micros":23844,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 062dbe9f3cb0cf5a7564be6a461b6b94).
+2024-10-24 22:17:56,091 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:17:56,091 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:19:15,335 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-24 22:19:15,342 - INFO - logging in using static token
+2024-10-24 22:19:15,816 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-24 22:19:16,008 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-1nzg",{"micros":80198,"calls":["id_created",{"micros":1173,"calls":[]},"session_lookup_time",{"micros":332,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-1-22",{"micros":77319,"calls":["start_session",{"micros":56295,"calls":["discord-api-rpc-77df56c576-pjmtf",{"micros":51944,"calls":["get_user",{"micros":5421},"get_guilds",{"micros":3884},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":296},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":301,"calls":[]},"guilds_started",{"micros":126,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20533,"calls":[]},"connect_finished",{"micros":20538,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: a3ed230b0ecae8ab31a1666c1ff58e57).
+2024-10-24 22:19:18,035 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:19:18,035 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:20:06,953 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-24 22:20:06,966 - INFO - logging in using static token
+2024-10-24 22:20:07,502 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-24 22:20:07,861 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-3ht7",{"micros":245237,"calls":["id_created",{"micros":602,"calls":[]},"session_lookup_time",{"micros":454,"calls":[]},"session_lookup_finished",{"micros":19,"calls":[]},"discord-sessions-prd-1-252",{"micros":243932,"calls":["start_session",{"micros":207588,"calls":["discord-api-rpc-77df56c576-47v8t",{"micros":201382,"calls":["get_user",{"micros":11318},"get_guilds",{"micros":43473},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":46,"calls":[]},"presence_started",{"micros":13264,"calls":[]},"guilds_started",{"micros":178,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":22814,"calls":[]},"connect_finished",{"micros":22822,"calls":[]},"build_ready",{"micros":27,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 544ca2de70c2f7606e4f22fee427167f).
+2024-10-24 22:20:09,917 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 22:20:09,917 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 23:06:09,211 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-24 23:06:09,220 - INFO - logging in using static token
+2024-10-24 23:06:09,762 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-24 23:06:09,954 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-72hx",{"micros":62724,"calls":["id_created",{"micros":559,"calls":[]},"session_lookup_time",{"micros":397,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-1-125",{"micros":61480,"calls":["start_session",{"micros":46845,"calls":["discord-api-rpc-77df56c576-k8zzm",{"micros":41275,"calls":["get_user",{"micros":13232},"get_guilds",{"micros":3131},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":69,"calls":[]},"presence_started",{"micros":438,"calls":[]},"guilds_started",{"micros":151,"calls":[]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":13938,"calls":[]},"connect_finished",{"micros":13947,"calls":[]},"build_ready",{"micros":24,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 78aa2402bfb42bd80998265a1808bf9c).
+2024-10-24 23:06:11,961 - INFO - Orion's Toolbox#9998 has connected
+2024-10-24 23:06:11,961 - INFO - Orion's Toolbox#9998 has connected
+2024-10-25 18:49:00,711 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-25 18:49:00,734 - INFO - logging in using static token
+2024-10-25 18:49:01,363 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-25 18:49:01,643 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-tg9k",{"micros":156799,"calls":["id_created",{"micros":947,"calls":[]},"session_lookup_time",{"micros":379,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-1-296",{"micros":154981,"calls":["start_session",{"micros":126607,"calls":["discord-api-rpc-b675cbd85-jldt5",{"micros":46746,"calls":["get_user",{"micros":7262},"get_guilds",{"micros":4084},"send_scheduled_deletion_message",{"micros":5},"guild_join_requests",{"micros":0},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":37,"calls":[]},"presence_started",{"micros":27901,"calls":[]},"guilds_started",{"micros":270,"calls":[]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":104,"calls":[]},"connect_finished",{"micros":132,"calls":[]},"build_ready",{"micros":27,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 7158c6146a39d37c17a50701f5ffee23).
+2024-10-25 18:49:03,669 - INFO - Orion's Toolbox#9998 has connected
+2024-10-25 18:49:03,670 - INFO - Orion's Toolbox#9998 has connected
+2024-10-25 18:54:31,259 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-10-25 18:54:31,260 - INFO - Cleaning up tasks.
+2024-10-25 18:54:31,260 - INFO - Cleaning up after 1 tasks.
+2024-10-25 18:54:31,260 - INFO - All tasks finished cancelling.
+2024-10-25 18:54:31,260 - INFO - Closing the event loop.
+2024-10-25 18:54:31,304 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000015DD5CB0E90>, 221989.9355165)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000015DD5BF5D30>
+2024-10-27 23:06:21,501 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-27 23:06:21,520 - INFO - logging in using static token
+2024-10-27 23:06:22,110 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-10-27 23:06:22,288 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-p56v",{"micros":62280,"calls":["id_created",{"micros":827,"calls":[]},"session_lookup_time",{"micros":2601,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-1-152",{"micros":58573,"calls":["start_session",{"micros":56478,"calls":["discord-api-rpc-6568c7df87-2nt2f",{"micros":52449,"calls":["get_user",{"micros":9157},"get_guilds",{"micros":3517},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":289},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":68,"calls":[]},"presence_started",{"micros":430,"calls":[]},"guilds_started",{"micros":162,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1401,"calls":[]},"connect_finished",{"micros":1407,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 12512b8ad2674a7cd662f0eaf1d05820).
+2024-10-27 23:06:24,309 - INFO - Orion's Toolbox#9998 has connected
+2024-10-27 23:06:24,309 - INFO - Orion's Toolbox#9998 has connected
+2024-11-05 14:38:13,141 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-05 14:38:13,178 - INFO - logging in using static token
+2024-11-05 14:38:13,804 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-05 14:38:14,081 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-wtv8",{"micros":142200,"calls":["id_created",{"micros":984,"calls":[]},"session_lookup_time",{"micros":720,"calls":[]},"session_lookup_finished",{"micros":21,"calls":[]},"discord-sessions-prd-1-246",{"micros":140106,"calls":["start_session",{"micros":48262,"calls":["discord-api-rpc-587d86cfb7-7l8kr",{"micros":44364,"calls":["get_user",{"micros":5228},"get_guilds",{"micros":3429},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":7749},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":45,"calls":[]},"presence_started",{"micros":13950,"calls":[]},"guilds_started",{"micros":172,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":77640,"calls":[]},"connect_finished",{"micros":77646,"calls":[]},"build_ready",{"micros":24,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 4982fd6ab018fc539ff7d4e30835d747).
+2024-11-05 14:38:16,236 - INFO - Orion's Toolbox#9998 has connected
+2024-11-05 14:38:16,236 - INFO - Orion's Toolbox#9998 has connected
+2024-11-05 14:40:41,563 - INFO - Deleted 3 messages.
+2024-11-05 15:01:12,405 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-05 15:01:12,406 - INFO - Cleaning up tasks.
+2024-11-05 15:01:12,406 - INFO - Cleaning up after 1 tasks.
+2024-11-05 15:01:12,407 - INFO - All tasks finished cancelling.
+2024-11-05 15:01:12,408 - INFO - Closing the event loop.
+2024-11-05 15:01:12,484 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001F4638F2120>
+2024-11-05 15:01:12,485 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001F4649FCB30>, 35210.1925528)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001F4638F2270>
+2024-11-05 15:01:15,051 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-05 15:01:15,062 - INFO - logging in using static token
+2024-11-05 15:01:15,745 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-05 15:01:15,917 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-5dnm",{"micros":71124,"calls":["id_created",{"micros":789,"calls":[]},"session_lookup_time",{"micros":334,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-1-54",{"micros":69657,"calls":["start_session",{"micros":46417,"calls":["discord-api-rpc-954fcbd8c-dwpsf",{"micros":42608,"calls":["get_user",{"micros":7661},"get_guilds",{"micros":2775},"send_scheduled_deletion_message",{"micros":5},"guild_join_requests",{"micros":0},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":69,"calls":[]},"presence_started",{"micros":1266,"calls":[]},"guilds_started",{"micros":175,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":21684,"calls":[]},"connect_finished",{"micros":21694,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 2c4d7b0455774ca3cf179fd76a872650).
+2024-11-05 15:01:17,943 - INFO - Orion's Toolbox#9998 has connected
+2024-11-05 15:01:17,943 - INFO - Orion's Toolbox#9998 has connected
+2024-11-05 15:11:02,496 - ERROR - Failed to kick. I do not have permission.
+2024-11-07 15:32:55,484 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-07 15:32:55,530 - INFO - logging in using static token
+2024-11-07 15:32:56,156 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-07 15:32:56,367 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-c82r",{"micros":95982,"calls":["id_created",{"micros":664,"calls":[]},"session_lookup_time",{"micros":259,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-1-264",{"micros":94701,"calls":["start_session",{"micros":39020,"calls":["discord-api-rpc-5b89c67865-nxs5c",{"micros":35643,"calls":["get_user",{"micros":6874},"get_guilds",{"micros":2939},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1637},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":6239,"calls":[]},"guilds_started",{"micros":170,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":49205,"calls":[]},"connect_finished",{"micros":49210,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 2c33f6cffc96f654278601e13d10052b).
+2024-11-07 15:32:58,422 - INFO - Orion's Toolbox#9998 has connected
+2024-11-07 15:32:58,422 - INFO - Orion's Toolbox#9998 has connected
+2024-11-07 16:19:22,116 - INFO - Got a request to RESUME the websocket.
+2024-11-07 16:19:22,593 - INFO - Shard ID None has sent the RESUME payload.
+2024-11-07 16:19:22,699 - INFO - Shard ID None has successfully RESUMED session 2c33f6cffc96f654278601e13d10052b under trace ["gateway-prd-us-east1-b-m205",{"micros":618,"calls":["id_created",{"micros":0,"calls":[]},"session_lookup_time",{"micros":285,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-1-264",{"micros":22}]}].
+2024-11-12 14:11:09,499 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-12 14:11:09,561 - INFO - logging in using static token
+2024-11-12 14:11:10,740 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-12 14:11:10,993 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-xcz2",{"micros":150223,"calls":["id_created",{"micros":1115,"calls":[]},"session_lookup_time",{"micros":300,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-281",{"micros":148455,"calls":["start_session",{"micros":78516,"calls":["discord-api-rpc-6758994c66-xmwk6",{"micros":74262,"calls":["get_user",{"micros":4651},"get_guilds",{"micros":4414},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":287},"authorized_ip_coro",{"micros":7}]}]},"starting_guild_connect",{"micros":43,"calls":[]},"presence_started",{"micros":29549,"calls":[]},"guilds_started",{"micros":194,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":40118,"calls":[]},"connect_finished",{"micros":40127,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 3f3145d74d034b8622f51787cf525572).
+2024-11-12 14:11:13,028 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:11:13,028 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:32:40,820 - WARNING - Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 97, in formatting_pass
+    elif re.search(rf"(.*)\{char}(\S+)\{char}(.*)", formatting):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:34:54,910 - WARNING - Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 81, in formatting_pass
+    if re.search(rf"(.*)\{char}{{3}}(\S+)\{char}{{3}}(.*)", word):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:05,218 - WARNING - Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 89, in formatting_pass
+    elif re.search(rf"(.*)\{char}{{2}}(\S+)\{char}{{2}}(.*)", formatting):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:15,503 - WARNING - Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 81, in formatting_pass
+    if re.search(rf"(.*)\{char}{{3}}(\S+)\{char}{{3}}(.*)", word):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:25,818 - WARNING - Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 89, in formatting_pass
+    elif re.search(rf"(.*)\{char}{{2}}(\S+)\{char}{{2}}(.*)", formatting):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:36,103 - WARNING - Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 89, in formatting_pass
+    elif re.search(rf"(.*)\{char}{{2}}(\S+)\{char}{{2}}(.*)", formatting):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:46,391 - WARNING - Shard ID None heartbeat blocked for more than 60 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 97, in formatting_pass
+    elif re.search(rf"(.*)\{char}(\S+)\{char}(.*)", formatting):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:56,796 - WARNING - Shard ID None heartbeat blocked for more than 70 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\vscode\discordbots\toolbox\toolbox-py\oriontoolbox.py", line 208, in <module>
+    bot.run(TOKEN)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 772, in run
+    loop.run_forever()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 679, in run_forever
+    self._run_once()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2027, in _run_once
+    handle._run()
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 412, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 258, in on_message
+    await check_brainrot(message)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 107, in check_brainrot
+    await formatting_pass(message, check_for_substitutions)
+  File "d:\vscode\discordbots\toolbox\toolbox-py\cogs\moderation.py", line 97, in formatting_pass
+    elif re.search(rf"(.*)\{char}(\S+)\{char}(.*)", formatting):
+  File "C:\Users\azzyn\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 177, in search
+    return _compile(pattern, flags).search(string)
+
+2024-11-12 14:35:58,425 - INFO - Timed out receiving packet. Attempting a reconnect.
+2024-11-12 14:35:58,426 - INFO - Got a request to RESUME the websocket.
+2024-11-12 14:35:58,786 - INFO - Shard ID None has sent the RESUME payload.
+2024-11-12 14:35:58,899 - INFO - Shard ID None has successfully RESUMED session 3f3145d74d034b8622f51787cf525572 under trace ["gateway-prd-us-east1-d-96b7",{"micros":2589,"calls":["id_created",{"micros":0,"calls":[]},"session_lookup_time",{"micros":473,"calls":[]},"session_lookup_finished",{"micros":19,"calls":[]},"discord-sessions-prd-1-281",{"micros":139}]}].
+2024-11-12 14:48:51,835 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-12 14:48:51,839 - INFO - Cleaning up tasks.
+2024-11-12 14:48:51,841 - INFO - Cleaning up after 1 tasks.
+2024-11-12 14:48:51,842 - INFO - All tasks finished cancelling.
+2024-11-12 14:48:51,842 - INFO - Closing the event loop.
+2024-11-12 14:48:51,991 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000022BE24AE120>
+2024-11-12 14:48:51,992 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000022BE26A03B0>, 344441.4943987)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000022BE24AE270>
+2024-11-12 14:48:54,075 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-12 14:48:54,106 - INFO - logging in using static token
+2024-11-12 14:48:54,559 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-12 14:48:54,792 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-2lrw",{"micros":122989,"calls":["id_created",{"micros":1562,"calls":[]},"session_lookup_time",{"micros":1561,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-prd-1-190",{"micros":119589,"calls":["start_session",{"micros":74470,"calls":["discord-api-rpc-6758994c66-8rfc5",{"micros":70465,"calls":["get_user",{"micros":14304},"get_guilds",{"micros":17762},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":15090,"calls":[]},"guilds_started",{"micros":124,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":29841,"calls":[]},"connect_finished",{"micros":29846,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: daffe53f529cc39a2b46e998ff8711a6).
+2024-11-12 14:48:56,818 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:48:56,818 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:50:38,995 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-12 14:50:38,995 - INFO - Cleaning up tasks.
+2024-11-12 14:50:38,996 - INFO - Cleaning up after 1 tasks.
+2024-11-12 14:50:38,996 - INFO - All tasks finished cancelling.
+2024-11-12 14:50:38,996 - INFO - Closing the event loop.
+2024-11-12 14:50:39,036 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000002C4CC943E90>, 344548.6601578)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000002C4CC93E270>
+2024-11-12 14:50:42,050 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-12 14:50:42,084 - INFO - logging in using static token
+2024-11-12 14:50:42,560 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-12 14:50:42,765 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-s2pt",{"micros":99728,"calls":["id_created",{"micros":1217,"calls":[]},"session_lookup_time",{"micros":5067,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-160",{"micros":91961,"calls":["start_session",{"micros":77946,"calls":["discord-api-rpc-6758994c66-wqnf5",{"micros":73437,"calls":["get_user",{"micros":11037},"get_guilds",{"micros":5587},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":7}]}]},"starting_guild_connect",{"micros":33,"calls":[]},"presence_started",{"micros":2790,"calls":[]},"guilds_started",{"micros":139,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11025,"calls":[]},"connect_finished",{"micros":11030,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 8e9a7014c03b365b4b9cff4ca91a6141).
+2024-11-12 14:50:44,836 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:50:44,836 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:51:14,573 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-12 14:51:14,574 - INFO - Cleaning up tasks.
+2024-11-12 14:51:14,574 - INFO - Cleaning up after 1 tasks.
+2024-11-12 14:51:14,575 - INFO - All tasks finished cancelling.
+2024-11-12 14:51:14,575 - INFO - Closing the event loop.
+2024-11-12 14:51:14,618 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001FD79441970>, 344584.2376288)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001FD793AE270>
+2024-11-12 14:51:16,615 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-12 14:51:16,641 - INFO - logging in using static token
+2024-11-12 14:51:17,168 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-12 14:51:17,480 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-lws1",{"micros":103479,"calls":["id_created",{"micros":1533,"calls":[]},"session_lookup_time",{"micros":243,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-1-223",{"micros":101095,"calls":["start_session",{"micros":51087,"calls":["discord-api-rpc-6758994c66-fpgwn",{"micros":43653,"calls":["get_user",{"micros":14926},"get_guilds",{"micros":2040},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":472},"authorized_ip_coro",{"micros":7}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":32281,"calls":[]},"guilds_started",{"micros":138,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17530,"calls":[]},"connect_finished",{"micros":17537,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 6342e64b8645a2f8382b316f8a7d8e49).
+2024-11-12 14:51:19,491 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:51:19,491 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:54:52,922 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-12 14:54:52,923 - INFO - Cleaning up tasks.
+2024-11-12 14:54:52,923 - INFO - Cleaning up after 1 tasks.
+2024-11-12 14:54:52,923 - INFO - All tasks finished cancelling.
+2024-11-12 14:54:52,924 - INFO - Closing the event loop.
+2024-11-12 14:54:52,964 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001A53CFC0D10>, 344802.5864422)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001A53CF2E270>
+2024-11-12 14:54:55,101 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-12 14:54:55,133 - INFO - logging in using static token
+2024-11-12 14:54:55,847 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-12 14:54:56,065 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-h9d5",{"micros":71521,"calls":["id_created",{"micros":1386,"calls":[]},"session_lookup_time",{"micros":1085,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-1-19",{"micros":67578,"calls":["start_session",{"micros":45472,"calls":["discord-api-rpc-6758994c66-rhjs5",{"micros":41643,"calls":["get_user",{"micros":5288},"get_guilds",{"micros":2705},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":3833,"calls":[]},"guilds_started",{"micros":112,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18087,"calls":[]},"connect_finished",{"micros":18093,"calls":[]},"build_ready",{"micros":29,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: d3641ff1ae34edc1aa5e85a7c332cea8).
+2024-11-12 14:54:58,089 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 14:54:58,089 - INFO - Orion's Toolbox#9998 has connected
+2024-11-12 15:11:30,592 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-12 15:11:30,594 - INFO - Cleaning up tasks.
+2024-11-12 15:11:30,595 - INFO - Cleaning up after 1 tasks.
+2024-11-12 15:11:30,595 - INFO - All tasks finished cancelling.
+2024-11-12 15:11:30,596 - INFO - Closing the event loop.
+2024-11-12 15:11:30,674 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000136269C22D0>, 345800.2563403)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001362692E270>
+2024-11-14 14:46:21,779 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-14 14:46:22,003 - INFO - logging in using static token
+2024-11-14 14:46:23,208 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-14 14:46:23,382 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-20hd",{"micros":54881,"calls":["id_created",{"micros":868,"calls":[]},"session_lookup_time",{"micros":7796,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-1-231",{"micros":44851,"calls":["start_session",{"micros":37342,"calls":["discord-api-rpc-6c579d6f7d-m8m9p",{"micros":34040,"calls":["get_user",{"micros":5077},"get_guilds",{"micros":3038},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":0},"authorized_ip_coro",{"micros":21}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":272,"calls":[]},"guilds_started",{"micros":98,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7074,"calls":[]},"connect_finished",{"micros":7080,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 36ab7c7648973ac05f54d99a66acb956).
+2024-11-14 14:46:25,688 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 14:46:25,689 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 14:48:25,817 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-14 14:48:25,818 - INFO - Cleaning up tasks.
+2024-11-14 14:48:25,818 - INFO - Cleaning up after 1 tasks.
+2024-11-14 14:48:25,819 - INFO - All tasks finished cancelling.
+2024-11-14 14:48:25,819 - INFO - Closing the event loop.
+2024-11-14 14:48:25,896 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000025463F669F0>, 127038.3850347), (<aiohttp.client_proto.ResponseHandler object at 0x0000025463EE3BF0>, 127038.5064285)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000025463EDE270>
+2024-11-14 14:50:42,389 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-14 14:50:42,430 - INFO - logging in using static token
+2024-11-14 14:50:43,033 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-14 14:50:43,439 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-wmbz",{"micros":283336,"calls":["id_created",{"micros":595,"calls":[]},"session_lookup_time",{"micros":879,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-1-216",{"micros":281526,"calls":["start_session",{"micros":229203,"calls":["discord-api-rpc-6c579d6f7d-jm984",{"micros":224465,"calls":["get_user",{"micros":5627},"get_guilds",{"micros":6729},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":9839,"calls":[]},"guilds_started",{"micros":113,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":42312,"calls":[]},"connect_finished",{"micros":42318,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: e4f1c580419c330f330245d6de4d2cf0).
+2024-11-14 14:50:45,469 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 14:50:45,469 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 14:51:12,927 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-14 14:51:12,928 - INFO - Cleaning up tasks.
+2024-11-14 14:51:12,928 - INFO - Cleaning up after 1 tasks.
+2024-11-14 14:51:12,929 - INFO - All tasks finished cancelling.
+2024-11-14 14:51:12,929 - INFO - Closing the event loop.
+2024-11-14 14:51:13,021 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001AB3EEB36B0>, 127201.5279755), (<aiohttp.client_proto.ResponseHandler object at 0x000001AB3EF40F50>, 127205.7259985)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001AB3EEAE270>
+2024-11-14 14:51:29,524 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-14 14:51:29,578 - INFO - logging in using static token
+2024-11-14 14:51:30,200 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-14 14:51:30,392 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-40c8",{"micros":53308,"calls":["id_created",{"micros":971,"calls":[]},"session_lookup_time",{"micros":292,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-1-57",{"micros":51395,"calls":["start_session",{"micros":43646,"calls":["discord-api-rpc-6c579d6f7d-5ktcv",{"micros":40253,"calls":["get_user",{"micros":5485},"get_guilds",{"micros":4612},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":0},"authorized_ip_coro",{"micros":7}]}]},"starting_guild_connect",{"micros":45,"calls":[]},"presence_started",{"micros":302,"calls":[]},"guilds_started",{"micros":148,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7223,"calls":[]},"connect_finished",{"micros":7230,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: f0493de86180888e5e53aff1e9847b33).
+2024-11-14 14:51:32,427 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 14:51:32,427 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 14:51:38,733 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-14 14:51:38,736 - INFO - Cleaning up tasks.
+2024-11-14 14:51:38,736 - INFO - Cleaning up after 1 tasks.
+2024-11-14 14:51:38,737 - INFO - All tasks finished cancelling.
+2024-11-14 14:51:38,738 - INFO - Closing the event loop.
+2024-11-14 14:51:38,807 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001FC54F236B0>, 127231.5310799)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001FC54F1E270>
+2024-11-14 15:39:30,573 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-14 15:39:30,583 - INFO - logging in using static token
+2024-11-14 15:39:31,357 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-14 15:39:31,564 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-z9f8",{"micros":57868,"calls":["id_created",{"micros":990,"calls":[]},"session_lookup_time",{"micros":331,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-1-155",{"micros":56273,"calls":["start_session",{"micros":42465,"calls":["discord-api-rpc-6c579d6f7d-qz6w6",{"micros":38643,"calls":["get_user",{"micros":6196},"get_guilds",{"micros":3451},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":36,"calls":[]},"presence_started",{"micros":13192,"calls":[]},"guilds_started",{"micros":162,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":384,"calls":[]},"connect_finished",{"micros":397,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: c85f56b7eb3dbcd43a99b2976f7a22b3).
+2024-11-14 15:39:33,585 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 15:39:33,586 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 15:45:33,956 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-14 15:45:33,958 - INFO - Cleaning up tasks.
+2024-11-14 15:45:33,958 - INFO - Cleaning up after 1 tasks.
+2024-11-14 15:45:33,959 - INFO - All tasks finished cancelling.
+2024-11-14 15:45:33,960 - INFO - Closing the event loop.
+2024-11-14 15:45:34,011 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000026D41FC7050>, 130466.7533396)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000026D41F3E270>
+2024-11-14 15:45:51,257 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-14 15:45:51,305 - INFO - logging in using static token
+2024-11-14 15:45:51,919 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-14 15:45:52,181 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-ndd6",{"micros":114146,"calls":["id_created",{"micros":686,"calls":[]},"session_lookup_time",{"micros":673,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-275",{"micros":112495,"calls":["start_session",{"micros":45142,"calls":["discord-api-rpc-6c579d6f7d-8wtbv",{"micros":39545,"calls":["get_user",{"micros":4722},"get_guilds",{"micros":3969},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":610},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":25333,"calls":[]},"guilds_started",{"micros":154,"calls":[]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":41793,"calls":[]},"connect_finished",{"micros":41803,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 69da6b179995796afa519756022b2fee).
+2024-11-14 15:45:54,199 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 15:45:54,200 - INFO - Orion's Toolbox#9998 has connected
+2024-11-14 15:45:59,656 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-14 15:45:59,656 - INFO - Cleaning up tasks.
+2024-11-14 15:45:59,657 - INFO - Cleaning up after 1 tasks.
+2024-11-14 15:45:59,657 - INFO - All tasks finished cancelling.
+2024-11-14 15:45:59,658 - INFO - Closing the event loop.
+2024-11-14 15:45:59,745 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000023DEC0836B0>, 130492.4552463)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000023DEC07E270>
+2024-11-15 09:32:12,655 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-15 09:32:12,690 - INFO - logging in using static token
+2024-11-15 09:32:13,311 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-15 09:32:13,471 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-qv5k",{"micros":57383,"calls":["id_created",{"micros":553,"calls":[]},"session_lookup_time",{"micros":3823,"calls":[]},"session_lookup_finished",{"micros":21,"calls":[]},"discord-sessions-prd-1-171",{"micros":52765,"calls":["start_session",{"micros":45428,"calls":["discord-api-rpc-8699c6cfd6-rns94",{"micros":41849,"calls":["get_user",{"micros":6923},"get_guilds",{"micros":4073},"send_scheduled_deletion_message",{"micros":5},"guild_join_requests",{"micros":239},"authorized_ip_coro",{"micros":4}]}]},"starting_guild_connect",{"micros":42,"calls":[]},"presence_started",{"micros":346,"calls":[]},"guilds_started",{"micros":128,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":6794,"calls":[]},"connect_finished",{"micros":6800,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 540c006e096260cab68f8debfb8a811d).
+2024-11-15 09:32:15,512 - INFO - Orion's Toolbox#9998 has connected
+2024-11-15 09:32:15,512 - INFO - Orion's Toolbox#9998 has connected
+2024-11-15 09:32:55,115 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-15 09:32:55,116 - INFO - Cleaning up tasks.
+2024-11-15 09:32:55,116 - INFO - Closing the event loop.
+2024-11-15 09:34:22,446 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-11-15 09:34:22,478 - INFO - logging in using static token
+2024-11-15 09:34:23,068 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-15 09:34:23,250 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-h1hl",{"micros":77484,"calls":["id_created",{"micros":725,"calls":[]},"session_lookup_time",{"micros":275,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-1-96",{"micros":75213,"calls":["start_session",{"micros":38236,"calls":["discord-api-rpc-8699c6cfd6-25s94",{"micros":34957,"calls":["get_user",{"micros":4954},"get_guilds",{"micros":3976},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":39,"calls":[]},"presence_started",{"micros":250,"calls":[]},"guilds_started",{"micros":125,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":36537,"calls":[]},"connect_finished",{"micros":36542,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 474ecaf0afc329b28ea9fdd872188006).
+2024-11-15 09:34:25,308 - INFO - Orion's Toolbox#9998 has connected
+2024-11-15 09:34:25,309 - INFO - Orion's Toolbox#9998 has connected
+2024-11-15 10:35:40,462 - WARNING - Shard ID None has stopped responding to the gateway. Closing and restarting.
+2024-11-15 10:35:40,472 - INFO - Timed out receiving packet. Attempting a reconnect.
+2024-11-15 10:35:40,473 - INFO - Got a request to RESUME the websocket.
+2024-11-15 10:35:40,776 - INFO - Shard ID None has sent the RESUME payload.
+2024-11-15 10:35:40,879 - INFO - Shard ID None session has been invalidated.
+2024-11-15 10:35:40,979 - INFO - Got a request to IDENTIFY the websocket.
+2024-11-15 10:35:46,270 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-11-15 10:35:46,593 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-cq2z",{"micros":153184,"calls":["id_created",{"micros":913,"calls":[]},"session_lookup_time",{"micros":8086,"calls":[]},"session_lookup_finished",{"micros":31,"calls":[]},"discord-sessions-prd-1-171",{"micros":143852,"calls":["start_session",{"micros":117404,"calls":["discord-api-rpc-8699c6cfd6-cn4j2",{"micros":113596,"calls":["get_user",{"micros":23371},"get_guilds",{"micros":2626},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":617},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":329,"calls":[]},"guilds_started",{"micros":126,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":25929,"calls":[]},"connect_finished",{"micros":25935,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 1558528c1a63ec5d58f35cffd91e2967).
+2024-11-15 10:35:48,613 - INFO - Orion's Toolbox#9998 has connected
+2024-11-15 10:35:48,613 - INFO - Orion's Toolbox#9998 has connected
+2024-11-15 10:41:04,875 - INFO - Websocket closed with 1006, attempting a reconnect.
+2024-11-15 10:41:04,897 - INFO - Got a request to RESUME the websocket.
+2024-11-15 10:41:05,159 - INFO - Shard ID None has sent the RESUME payload.
+2024-11-15 10:41:05,259 - INFO - Shard ID None has successfully RESUMED session 1558528c1a63ec5d58f35cffd91e2967 under trace ["gateway-prd-us-east1-c-72hx",{"micros":566,"calls":["id_created",{"micros":0,"calls":[]},"session_lookup_time",{"micros":260,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-171",{"micros":19}]}].
+2024-11-15 11:20:25,340 - INFO - Got a request to RESUME the websocket.
+2024-11-15 11:20:25,901 - INFO - Shard ID None has sent the RESUME payload.
+2024-11-15 11:20:26,025 - INFO - Shard ID None has successfully RESUMED session 1558528c1a63ec5d58f35cffd91e2967 under trace ["gateway-prd-us-east1-b-5ks3",{"micros":612,"calls":["id_created",{"micros":0,"calls":[]},"session_lookup_time",{"micros":306,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-1-171",{"micros":20}]}].
+2024-11-15 12:42:27,190 - INFO - Got a request to RESUME the websocket.
+2024-11-15 12:42:27,663 - INFO - Shard ID None has sent the RESUME payload.
+2024-11-15 12:42:27,779 - INFO - Shard ID None has successfully RESUMED session 1558528c1a63ec5d58f35cffd91e2967 under trace ["gateway-prd-us-east1-d-hn46",{"micros":421,"calls":["id_created",{"micros":0,"calls":[]},"session_lookup_time",{"micros":180,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-1-171",{"micros":22}]}].
+2024-11-15 12:43:10,812 - INFO - Websocket closed with 1000, cannot reconnect.
+2024-11-15 12:43:10,830 - INFO - Cleaning up tasks.
+2024-11-15 12:43:10,833 - INFO - Cleaning up after 1 tasks.
+2024-11-15 12:43:10,837 - INFO - All tasks finished cancelling.
+2024-11-15 12:43:10,838 - INFO - Closing the event loop.
+2024-11-15 12:43:11,270 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001741920E120>
+2024-11-15 12:43:11,271 - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000174192A29F0>, 205923.6052397)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001741920E270>
+2024-12-08 23:13:08,037 - INFO - logging in using static token
+2024-12-08 23:13:08,702 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:13:08,873 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-9m0d",{"micros":53096,"calls":["id_created",{"micros":1335,"calls":[]},"session_lookup_time",{"micros":248,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-178",{"micros":51213,"calls":["start_session",{"micros":42180,"calls":["discord-api-rpc-7574bb9dff-gwfmf",{"micros":37644,"calls":["get_user",{"micros":5409},"get_guilds",{"micros":2729},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":665},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":39,"calls":[]},"presence_started",{"micros":352,"calls":[]},"guilds_started",{"micros":103,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8511,"calls":[]},"connect_finished",{"micros":8516,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ff71de0ae580d2d08c400ddab8f0ace2).
+2024-12-08 23:13:10,909 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:13:10,909 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:17:46,013 - INFO - Cleaning up tasks.
+2024-12-08 23:17:46,013 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:17:46,014 - INFO - All tasks finished cancelling.
+2024-12-08 23:17:46,014 - INFO - Closing the event loop.
+2024-12-08 23:17:47,671 - INFO - logging in using static token
+2024-12-08 23:17:48,368 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:17:48,614 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-6sf7",{"micros":130564,"calls":["id_created",{"micros":1590,"calls":[]},"session_lookup_time",{"micros":8897,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-1-247",{"micros":119587,"calls":["start_session",{"micros":72855,"calls":["discord-api-rpc-7574bb9dff-b952v",{"micros":65190,"calls":["get_user",{"micros":19379},"get_guilds",{"micros":3291},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":240},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":85,"calls":[]},"presence_started",{"micros":10426,"calls":[]},"guilds_started",{"micros":151,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":36039,"calls":[]},"connect_finished",{"micros":36046,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: b7acd950d59038b2d97088ab4a9d2a5a).
+2024-12-08 23:17:50,639 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:17:50,639 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:19:07,685 - INFO - Cleaning up tasks.
+2024-12-08 23:19:07,685 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:19:07,685 - INFO - All tasks finished cancelling.
+2024-12-08 23:19:07,686 - INFO - Closing the event loop.
+2024-12-08 23:19:44,789 - INFO - logging in using static token
+2024-12-08 23:19:45,416 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:19:45,613 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-tvtn",{"micros":81383,"calls":["id_created",{"micros":1390,"calls":[]},"session_lookup_time",{"micros":6511,"calls":[]},"session_lookup_finished",{"micros":33,"calls":[]},"discord-sessions-prd-1-98",{"micros":72725,"calls":["start_session",{"micros":41915,"calls":["discord-api-rpc-7574bb9dff-b6bnj",{"micros":37942,"calls":["get_user",{"micros":5509},"get_guilds",{"micros":3119},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":91,"calls":[]},"presence_started",{"micros":10946,"calls":[]},"guilds_started",{"micros":163,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":19581,"calls":[]},"connect_finished",{"micros":19587,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 8de935fbf51afe29af3f83d3ec2d4aa7).
+2024-12-08 23:19:47,631 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:19:47,631 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:23:35,168 - INFO - Cleaning up tasks.
+2024-12-08 23:23:35,169 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:23:35,171 - INFO - All tasks finished cancelling.
+2024-12-08 23:23:35,172 - INFO - Closing the event loop.
+2024-12-08 23:23:36,416 - INFO - logging in using static token
+2024-12-08 23:23:37,017 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:23:37,224 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-h3nc",{"micros":86713,"calls":["id_created",{"micros":619,"calls":[]},"session_lookup_time",{"micros":2220,"calls":[]},"session_lookup_finished",{"micros":22,"calls":[]},"discord-sessions-prd-1-241",{"micros":82651,"calls":["start_session",{"micros":39636,"calls":["discord-api-rpc-7574bb9dff-48x89",{"micros":35130,"calls":["get_user",{"micros":6941},"get_guilds",{"micros":3370},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":712},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":77,"calls":[]},"presence_started",{"micros":11475,"calls":[]},"guilds_started",{"micros":146,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":31286,"calls":[]},"connect_finished",{"micros":31293,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: fdbebc12821e2afc820da40f8df53ffe).
+2024-12-08 23:23:39,245 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:23:39,245 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:24:08,469 - INFO - Cleaning up tasks.
+2024-12-08 23:24:08,469 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:24:08,470 - INFO - All tasks finished cancelling.
+2024-12-08 23:24:08,471 - INFO - Closing the event loop.
+2024-12-08 23:24:08,963 - INFO - logging in using static token
+2024-12-08 23:24:09,608 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:24:10,017 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-fm8w",{"micros":209600,"calls":["id_created",{"micros":694,"calls":[]},"session_lookup_time",{"micros":312,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-prd-1-14",{"micros":207295,"calls":["start_session",{"micros":176556,"calls":["discord-api-rpc-7574bb9dff-7mzgz",{"micros":163863,"calls":["get_user",{"micros":45640},"get_guilds",{"micros":5398},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":68,"calls":[]},"presence_started",{"micros":7234,"calls":[]},"guilds_started",{"micros":172,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23233,"calls":[]},"connect_finished",{"micros":23240,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 0e1ce749851e30e7599a0c8919a100e2).
+2024-12-08 23:24:12,031 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:24:12,032 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:25:33,403 - INFO - Cleaning up tasks.
+2024-12-08 23:25:33,404 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:25:33,405 - INFO - All tasks finished cancelling.
+2024-12-08 23:25:33,405 - INFO - Closing the event loop.
+2024-12-08 23:34:08,918 - INFO - logging in using static token
+2024-12-08 23:34:09,637 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:34:09,891 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-9jqx",{"micros":138933,"calls":["id_created",{"micros":649,"calls":[]},"session_lookup_time",{"micros":3839,"calls":[]},"session_lookup_finished",{"micros":24,"calls":[]},"discord-sessions-prd-1-258",{"micros":134140,"calls":["start_session",{"micros":116761,"calls":["discord-api-rpc-7574bb9dff-vkc66",{"micros":111421,"calls":["get_user",{"micros":25278},"get_guilds",{"micros":4407},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":90,"calls":[]},"presence_started",{"micros":1027,"calls":[]},"guilds_started",{"micros":173,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":16051,"calls":[]},"connect_finished",{"micros":16058,"calls":[]},"build_ready",{"micros":27,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 6e1a1586e62bbd4cca9bfc02f4076bf4).
+2024-12-08 23:34:11,941 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:34:11,941 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:35:37,868 - INFO - Cleaning up tasks.
+2024-12-08 23:35:37,868 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:35:37,870 - INFO - All tasks finished cancelling.
+2024-12-08 23:35:37,870 - INFO - Closing the event loop.
+2024-12-08 23:35:38,757 - INFO - logging in using static token
+2024-12-08 23:35:39,475 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:35:39,682 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-thmm",{"micros":90501,"calls":["id_created",{"micros":1624,"calls":[]},"session_lookup_time",{"micros":1361,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-1-63",{"micros":87065,"calls":["start_session",{"micros":44714,"calls":["discord-api-rpc-7574bb9dff-ftfw6",{"micros":40919,"calls":["get_user",{"micros":9425},"get_guilds",{"micros":2804},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":2886},"authorized_ip_coro",{"micros":7}]}]},"starting_guild_connect",{"micros":71,"calls":[]},"presence_started",{"micros":18187,"calls":[]},"guilds_started",{"micros":179,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23879,"calls":[]},"connect_finished",{"micros":23885,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 7cc5fe6a4c54157c1a9662d102023f98).
+2024-12-08 23:35:41,704 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:35:41,704 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:39:15,115 - INFO - Cleaning up tasks.
+2024-12-08 23:39:15,116 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:39:15,117 - INFO - All tasks finished cancelling.
+2024-12-08 23:39:15,117 - INFO - Closing the event loop.
+2024-12-08 23:39:16,003 - INFO - logging in using static token
+2024-12-08 23:39:16,616 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:39:16,866 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-83sg",{"micros":134056,"calls":["id_created",{"micros":957,"calls":[]},"session_lookup_time",{"micros":4465,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-1-171",{"micros":127316,"calls":["start_session",{"micros":92187,"calls":["discord-api-rpc-7574bb9dff-6np9t",{"micros":87899,"calls":["get_user",{"micros":5985},"get_guilds",{"micros":5664},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":70,"calls":[]},"presence_started",{"micros":14327,"calls":[]},"guilds_started",{"micros":138,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":20561,"calls":[]},"connect_finished",{"micros":20568,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":2,"calls":[]}]}]}] (Session ID: 59c61f7c40d83114594c1bb793c108ad).
+2024-12-08 23:39:18,888 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:39:18,888 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:39:20,937 - INFO - Cleaning up tasks.
+2024-12-08 23:39:20,937 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:39:20,939 - INFO - All tasks finished cancelling.
+2024-12-08 23:39:20,939 - INFO - Closing the event loop.
+2024-12-08 23:39:21,801 - INFO - logging in using static token
+2024-12-08 23:39:22,430 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:39:22,665 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-41bh",{"micros":118024,"calls":["id_created",{"micros":908,"calls":[]},"session_lookup_time",{"micros":2338,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-1-93",{"micros":114448,"calls":["start_session",{"micros":95365,"calls":["discord-api-rpc-7574bb9dff-gtm2v",{"micros":39652,"calls":["get_user",{"micros":6000},"get_guilds",{"micros":4034},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":68,"calls":[]},"presence_started",{"micros":9349,"calls":[]},"guilds_started",{"micros":151,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9490,"calls":[]},"connect_finished",{"micros":9495,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9eba043be6831d681b81271989e8186a).
+2024-12-08 23:39:24,688 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:39:24,688 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:47:45,193 - INFO - Cleaning up tasks.
+2024-12-08 23:47:45,193 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:47:45,195 - INFO - All tasks finished cancelling.
+2024-12-08 23:47:45,195 - INFO - Closing the event loop.
+2024-12-08 23:47:46,676 - INFO - logging in using static token
+2024-12-08 23:47:47,332 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:47:47,529 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-qsnk",{"micros":78838,"calls":["id_created",{"micros":941,"calls":[]},"session_lookup_time",{"micros":3656,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-1-144",{"micros":73748,"calls":["start_session",{"micros":41412,"calls":["discord-api-rpc-7574bb9dff-xbghs",{"micros":37223,"calls":["get_user",{"micros":8928},"get_guilds",{"micros":2298},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":411},"authorized_ip_coro",{"micros":5}]}]},"starting_guild_connect",{"micros":71,"calls":[]},"presence_started",{"micros":11759,"calls":[]},"guilds_started",{"micros":141,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20333,"calls":[]},"connect_finished",{"micros":20340,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 02e8e389ae62e361016619b37ed4294f).
+2024-12-08 23:47:49,577 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:47:49,577 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:48:15,046 - INFO - Cleaning up tasks.
+2024-12-08 23:48:15,046 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:48:15,048 - INFO - All tasks finished cancelling.
+2024-12-08 23:48:15,048 - INFO - Closing the event loop.
+2024-12-08 23:48:15,902 - INFO - logging in using static token
+2024-12-08 23:48:16,516 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:48:16,925 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-xcpv",{"micros":232027,"calls":["id_created",{"micros":832,"calls":[]},"session_lookup_time",{"micros":2788,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-1-268",{"micros":228060,"calls":["start_session",{"micros":213026,"calls":["discord-api-rpc-7574bb9dff-pjccd",{"micros":206548,"calls":["get_user",{"micros":40960},"get_guilds",{"micros":6499},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":308},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":85,"calls":[]},"presence_started",{"micros":14515,"calls":[]},"guilds_started",{"micros":127,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":277,"calls":[]},"connect_finished",{"micros":284,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: aa27e77c0764dfd984e2d94d4d17752a).
+2024-12-08 23:48:18,941 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:48:18,942 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:52:08,865 - INFO - Cleaning up tasks.
+2024-12-08 23:52:08,865 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:52:08,866 - INFO - All tasks finished cancelling.
+2024-12-08 23:52:08,867 - INFO - Closing the event loop.
+2024-12-08 23:54:44,108 - INFO - logging in using static token
+2024-12-08 23:54:44,814 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:54:44,980 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-pfdt",{"micros":46624,"calls":["id_created",{"micros":731,"calls":[]},"session_lookup_time",{"micros":350,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-1-240",{"micros":44152,"calls":["start_session",{"micros":40203,"calls":["discord-api-rpc-7574bb9dff-zflvs",{"micros":36174,"calls":["get_user",{"micros":5502},"get_guilds",{"micros":3605},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":62,"calls":[]},"presence_started",{"micros":283,"calls":[]},"guilds_started",{"micros":135,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3431,"calls":[]},"connect_finished",{"micros":3444,"calls":[]},"build_ready",{"micros":22,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ace900ed4846a5fcd476bb60451eab18).
+2024-12-08 23:54:47,035 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:54:47,036 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:55:05,532 - INFO - Cleaning up tasks.
+2024-12-08 23:55:05,532 - INFO - Cleaning up after 1 tasks.
+2024-12-08 23:55:05,533 - INFO - All tasks finished cancelling.
+2024-12-08 23:55:05,533 - INFO - Closing the event loop.
+2024-12-08 23:55:06,579 - INFO - logging in using static token
+2024-12-08 23:55:07,219 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-08 23:55:07,697 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-hmvs",{"micros":326542,"calls":["id_created",{"micros":1483,"calls":[]},"session_lookup_time",{"micros":989,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-1-220",{"micros":322739,"calls":["start_session",{"micros":300348,"calls":["discord-api-rpc-7574bb9dff-64zhb",{"micros":291973,"calls":["get_user",{"micros":37485},"get_guilds",{"micros":50987},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":66,"calls":[]},"presence_started",{"micros":281,"calls":[]},"guilds_started",{"micros":142,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":21867,"calls":[]},"connect_finished",{"micros":21872,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 62e1d345bc167f44cca7f9b77f28e873).
+2024-12-08 23:55:09,714 - INFO - Orion's Toolbox#9998 has connected
+2024-12-08 23:55:09,715 - INFO - Orion's Toolbox#9998 has connected
+2024-12-09 00:08:15,849 - INFO - Cleaning up tasks.
+2024-12-09 00:08:15,850 - INFO - Cleaning up after 1 tasks.
+2024-12-09 00:08:15,852 - INFO - All tasks finished cancelling.
+2024-12-09 00:08:15,852 - INFO - Closing the event loop.
+2024-12-09 00:21:31,035 - INFO - logging in using static token
+2024-12-09 00:21:31,649 - INFO - Shard ID None has sent the IDENTIFY payload.
+2024-12-09 00:21:31,880 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-1ctr",{"micros":110108,"calls":["id_created",{"micros":646,"calls":[]},"session_lookup_time",{"micros":1986,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-1-195",{"micros":106188,"calls":["start_session",{"micros":42535,"calls":["discord-api-rpc-7574bb9dff-cvr8p",{"micros":39122,"calls":["get_user",{"micros":6115},"get_guilds",{"micros":4278},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":305},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":63,"calls":[]},"presence_started",{"micros":10859,"calls":[]},"guilds_started",{"micros":132,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":52562,"calls":[]},"connect_finished",{"micros":52568,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":6,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: cdffbfbc634fd19e4627767b9b12ab3d).
+2024-12-09 00:21:33,918 - INFO - Orion's Toolbox#9998 has connected
+2024-12-09 00:21:33,918 - INFO - Orion's Toolbox#9998 has connected
+2024-12-09 00:32:02,285 - INFO - Cleaning up tasks.
+2024-12-09 00:32:02,285 - INFO - Cleaning up after 1 tasks.
+2024-12-09 00:32:02,287 - INFO - All tasks finished cancelling.
+2024-12-09 00:32:02,287 - INFO - Closing the event loop.

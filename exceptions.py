@@ -1,0 +1,2 @@
+class cogFail(Exception):
+    pass
