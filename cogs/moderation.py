@@ -5,7 +5,7 @@ def load_action_counts():
     try:
         with open('action_counts.json', 'r') as f:
             return json.load(f)
-    except FileNotFoundError:
+    except (FileNotFoundError, json.decoder.JSONDecodeError):
         return {"warns": 0, "kicks": 0, "deletes": 0, "purges": 0}
 
 # Save action counts on shutdown
